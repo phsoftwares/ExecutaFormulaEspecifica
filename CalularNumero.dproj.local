@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/11 14:26:48.000.842,=X:\Users\PEDRO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 14:28:44.000.478,=X:\Users\PEDRO\Documents\Embarcadero\Studio\Projects\AppletModule1.pas</Transaction>
+    <Transaction>2022/07/13 16:02:42.579,=X:\Users\PEDRO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/13 16:52:05.892,X:\Users\PEDRO\Desktop\PEDRO HENRIQUE-DELPHI\01\uCalculo.pas=X:\Users\PEDRO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/13 16:52:05.892,X:\Users\PEDRO\Desktop\PEDRO HENRIQUE-DELPHI\01\uCalculo.dfm=X:\Users\PEDRO\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/07/13 16:52:15.458,X:\Users\PEDRO\Desktop\PEDRO HENRIQUE-DELPHI\01\CalularNumero.dproj=X:\Users\PEDRO\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
